@@ -1,0 +1,23 @@
+{
+  "name": "rollup",
+  "version": "0.0.0",
+  "description": "",
+  "main": "rollup-app.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^25.0.0",
+    "@rollup/plugin-node-resolve": "^15.0.0",
+    "tonic-universal": "../../.",
+    "rollup": "^2.56.3",
+    "desm": "^1.2.0",
+    "jsdom": "^22.0.0",
+    "p-temporary-directory": "^1.1.1",
+    "tap": "^16.2.0"
+  }
+}

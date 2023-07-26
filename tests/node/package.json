@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "keywords": [],
+  "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "tonic-universal": "../../.",
+    "tap": "^16.2.0"
+  }
+}
