@@ -1,7 +1,6 @@
 # tonic-universal
 [![latest version](https://img.shields.io/npm/v/tonic-universal.svg)](https://www.npmjs.com/package/tonic-universal)
 [![Actions Status](https://github.com/bcomnes/tonic-universal/workflows/tests/badge.svg)](https://github.com/bcomnes/tonic-universal/actions)
-[![Coverage Status](https://coveralls.io/repos/github/bcomnes/tonic-universal/badge.svg?branch=master)](https://coveralls.io/github/bcomnes/tonic-universal?branch=master)
 [![downloads](https://img.shields.io/npm/dm/tonic-universal.svg)](https://npmtrends.com/tonic-universal)
 
 

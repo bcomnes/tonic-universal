@@ -4,7 +4,7 @@
   "description": "",
   "main": "rollup-app.js",
   "scripts": {
-    "test": "tap"
+    "test": "tap --coverage-report=text-lcov"
   },
   "keywords": [],
   "author": "Bret Comnes <bcomnes@gmail.com> (https://bret.io/)",
