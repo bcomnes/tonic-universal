@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "auto-changelog": "^2.2.0",
-    "gh-release": "^6.0.0",
+    "gh-release": "^7.0.2",
     "npm-run-all2": "^5.0.0",
     "standard": "^16.0.2"
   },
