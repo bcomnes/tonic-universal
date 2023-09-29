@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "tonic-universal": "../../.",
-    "tap": "^16.2.0"
+    "tap": "^18.3.0"
   }
 }
